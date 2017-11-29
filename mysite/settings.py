@@ -25,7 +25,7 @@ SECRET_KEY = 'e!5pl@7=h^a4_6=hmjjnec=cq89s=&htqiwpxx9y(db10=fwok'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<Sagurik>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', '<sagurik>.pythonanywhere.com']
 
 
 # Application definition
